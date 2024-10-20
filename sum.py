@@ -4,9 +4,7 @@ c = a + b
 print(c)
 
 # multiplying numbers
-<<<<<<< HEAD
 c = a - b
 =======
 c = a / b
->>>>>>> main
 print(c)
