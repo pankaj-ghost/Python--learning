@@ -5,6 +5,5 @@ print(c)
 
 # multiplying numbers
 c = a - b
-=======
 c = a / b
 print(c)
